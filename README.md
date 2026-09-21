@@ -1,2 +1,2 @@
-# the-C-programing-language
+# The-C-programing-language
 Introduction to the C Programming Language
